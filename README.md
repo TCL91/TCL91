@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am a Data Analyst who is curious and always learning. I have three degrees, a Master's in Data Science, and two Bachelor's in Mathematics and Psychology! With my degrees, I have learned many skills such as Python, SQL, and Tableau. 
 
 <!--
 **TCL91/TCL91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
